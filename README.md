@@ -2,7 +2,7 @@
 <h3 align="center">Flutter • Node.js • MySQL Developer | Building Real Apps That Actually Work 🚀</h3>
 
 <p align="center">
-  <img src="https://github.com/ritumali-ritz.png" width="130" style="border-radius: 50%">
+  <img src="https://github.com/ritumali-ritz.png" width="130" style="border-radius: 150%">
 </p>
 
 ---
