@@ -74,8 +74,8 @@ AI + ML + Flutter app for plant disease detection.
 ---
 
 # 🌐 Connect With Me
-📩 **rireshmali514@gmail.com**  
-📸 **Instagram:** *ritesh_mali514*
+📩 **ritesh.mali514@gmail.com**  
+📸 **Instagram:** *ritesh.mali.0364e383*
 
 ---
 
