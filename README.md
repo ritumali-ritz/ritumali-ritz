@@ -1,84 +1,86 @@
-<h1 align="center">Hi 👋, I'm Ritesh Mali</h1>
-<h3 align="center">Flutter + Node.js + MySQL Developer | Java & Android Developer | IoT & 3D Web Enthusiast</h3>
-
+<!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="220" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=09F7F7&width=700&lines=Hi+I'm+Ritesh+Mali;Flutter+%7C+Node.js+%7C+MySQL+Developer;Android+%7C+3D+Web+%7C+IoT+Enthusiast;Building+Real+Apps+Not+Just+Projects" />
+</p>
+
+<!-- CYBERPUNK NEON LINE -->
+<p align="center">
+  <img src="https://github.com/ritumali-ritz/ritumali-ritz/blob/main/assets/neonline.gif" width="900"/>
 </p>
 
 ---
 
-## 🚀 About Me
-Passionate developer building full-stack apps with Flutter, Node.js, and MySQL.  
-I love creating real-world projects — from IoT systems to mobile apps to 3D web experiences.  
-Always learning, improving, and working on something exciting. 🚀
+# 👨‍💻 **Ritesh Mali — Full Stack & Mobile Developer**
+🔥 Flutter | Node.js | MySQL | Java | 3D | IoT | App Dev  
+⚡ Passionate about building **real-world apps** with **clean UI, strong backend & modern animations**.
 
 ---
 
-## 🛠️ Tech Stack
-
-### **🚀 Languages**
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-
-### **📱 Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
-### **🛢 Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-### **🔗 Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 🏆 Achievements & GitHub Trophies
+# 🧠 **Tech Universe**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritumali-ritz&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,js,html,css,nodejs,mysql,git,linux,threejs,arduino&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 **Achievements**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritumali-ritz&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritumali-ritz&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ritumali-ritz&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-## ⚡ Streak Stats
+# 📈 **GitHub Performance**
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ritumali-ritz&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ritumali-ritz&theme=tokyonight&show_icons=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=ritumali-ritz&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritumali-ritz&langs_count=8&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🐍 **Snake Eating My Contributions**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-### 🔥 **Farmer Mall App**
-Full backend system + Flutter UI for managing farmer-to-consumer delivery.
+---
+
+# 🚀 Featured Projects
+
+### 🌾 **Farmer Mall App**
+🔥 A full marketplace system with backend + Flutter UI.
 
 ### 🍶 **Milk Product Website**
-3D products, animations, store page, and backend.
+✨ 3D shop, animations, and backend with Node.js.
 
-### 🤖 **IoT Auto-Attendance**
-NodeMCU + RFID + MySQL auto-attendance system.
+### 🎯 **IoT Auto Attendance**
+RFID + NodeMCU + MySQL → Attendance automation.
 
 ### 🌱 **AgriStar – Plant Disease Detector**
-AI + ML + Flutter app for real-time plant disease detection.
+AI + ML + Flutter app for plant disease detection.
 
 ---
 
-## 🌐 Connect With Me
-📧 **ritesh.mali514@gmail.com**  
-📱 **insta: ritesh.mali.0364e383**
+# ⚡ Live Badge Stats
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ritumali-ritz&label=Visitors&color=0ef&style=flat-square" />
+</p>
 
 ---
 
-<p align="center">⭐ *Building real apps, not just projects.* ⭐</p>
+# 🌐 Connect With Me
+📩 **rireshmali514@gmail.com**  
+📸 **Instagram:** *ritesh_mali514*
+
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/78e3vYqdhxIhi/giphy.gif" width="200" />
+</p>
+
+<h3 align="center">✨ Always Building. Always Improving. ✨</h3>
