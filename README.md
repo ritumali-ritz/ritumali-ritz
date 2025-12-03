@@ -48,4 +48,5 @@ AI-powered agriculture app using real plant diagnosis.
 
 ### 🤝 Connect With Me  
 📧 Email: malirish145@gmail.com  
-👤 Insta: mythic.rrl  
+👤 Insta: mali_ritesh514
+
