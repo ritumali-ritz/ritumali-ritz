@@ -77,7 +77,7 @@ AI + ML + Flutter app for real-time plant disease detection.
 
 ## 🌐 Connect With Me
 📧 **ritesh.mali514@gmail.com**  
-📱 **insta: ritesh.mali.0364e383**
+📱 **insta: ritesh_mali514*
 
 ---
 
