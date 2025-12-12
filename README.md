@@ -67,7 +67,7 @@ Cloud-based dairy system: daily collection, farmer accounts, billing cycles, pay
 ### 🤖 **IoT Auto-Attendance System**  
 RFID + NodeMCU + MySQL automatic attendance bookmarking system.
 
-### 🌱 **MediFlow — “Smart Health Movement”**  
+### 🏥 **MediFlow — “Smart Health Movement”**  
 Flutter + firebase MediFlow: Smart digital patient flow for clinics and hospitals.
 
 
