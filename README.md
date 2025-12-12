@@ -67,8 +67,9 @@ Cloud-based dairy system: daily collection, farmer accounts, billing cycles, pay
 ### 🤖 **IoT Auto-Attendance System**  
 RFID + NodeMCU + MySQL automatic attendance bookmarking system.
 
-### 🌱 **AgriStar – AI Plant Disease Detector**  
-Flutter + ML based plant disease detector with treatment suggestions.
+### 🌱 **MediFlow — “Smart Health Movement”**  
+Flutter + firebase MediFlow: Smart digital patient flow for clinics and hospitals.
+
 
 ---
 
