@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF3636&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Ritesh+Mali;Flutter+Developer;Node.js+Backend+Developer;MySQL+%7C+Firebase+Engineer;Android+%26+Java+Developer;3D+Web+%7C+IoT+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF3636&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Ritesh+Mali;Flutter+Developer;Node.js+Backend+Developer;MySQL+%7C+Firebase+Engineer;Android+%26+Java+Developer;3D+Web+%7C+IoT+Enthusiast;AI+Prompt+Designer" />
 </h1>
 
 <h3 align="center">Full-Stack & Mobile Developer | Passionate About Real-World Applications</h3>
@@ -10,6 +10,7 @@
 I'm a developer who loves building **real apps**, not just projects.  
 My expertise includes **Flutter**, **Node.js**, **MySQL**, **Firebase**, and **IoT systems**.  
 I enjoy combining **mobile apps**, **backend engineering**, and **3D interactive web** to create powerful products.  
+🔹 **Also skilled as an AI Prompt Designer, creating precise prompts and AI workflows for smarter applications.**
 
 ---
 
@@ -35,6 +36,7 @@ I enjoy combining **mobile apps**, **backend engineering**, and **3D interactive
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code)
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio)
+![AI Prompt Designer](https://img.shields.io/badge/AI%20Prompt%20Design-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -68,13 +70,12 @@ Cloud-based dairy system: daily collection, farmer accounts, billing cycles, pay
 RFID + NodeMCU + MySQL automatic attendance bookmarking system.
 
 ### 🏥 **MediFlow — “Smart Health Movement”**  
-Flutter + firebase MediFlow: Smart digital patient flow for clinics and hospitals.
-
+Flutter + Firebase — MediFlow: Smart digital patient flow for clinics and hospitals.
 
 ---
 
 ## 🌐 Connect With Me  
-📧 **ritesh.mali514@gmail.com**  
+📧 **rireshmali514@gmail.com**  
 📱 Instagram: **@ritesh_mali514**
 
 ---
